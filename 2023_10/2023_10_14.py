@@ -1,4 +1,5 @@
 # 2023/10/14 Daily challenge
+# 2742_Painting the Walls
 # https://leetcode.com/problems/painting-the-walls/
 class Solution:
     def paintWalls(self, cost: List[int], time: List[int]) -> int:
