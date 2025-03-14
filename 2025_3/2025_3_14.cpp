@@ -35,7 +35,7 @@ class Solution {
             }
             long long people = 0;
             for (int candy : candies) {
-                people += floor(candy / m);
+                people += candy / m;
             }
             return people;
         }
